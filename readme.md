@@ -74,8 +74,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://crypto.alexandre-devaux.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `AlexandreDevaux`, `Crypto_metrics_API`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
